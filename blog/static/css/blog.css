@@ -1,5 +1,7 @@
-
-
+body {
+    padding-left: 15px;
+    font-family: 'Lobster';
+}
 .page-header {
     background-color: #C25100;
     margin-top: 0;
